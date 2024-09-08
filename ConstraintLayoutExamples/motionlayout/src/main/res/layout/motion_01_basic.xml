@@ -28,7 +28,7 @@
         android:layout_height="64dp"
         android:background="@color/colorAccent"
         android:text="Button"
-        tools:layout_editor_absoluteX="147dp"
-        tools:layout_editor_absoluteY="230dp" />
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="250dp" />
 
 </androidx.constraintlayout.motion.widget.MotionLayout>
